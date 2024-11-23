@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "0eaa644e42159a16",
+    "type": "split",
+    "children": [
+      {
+        "id": "c76a96c798b94289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "976c23ce34868537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO - Orange.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO - Orange"
+            }
+          },
+          {
+            "id": "5431b36863ea53a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objectives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objectives"
+            }
+          },
+          {
+            "id": "f0ba069ec9d395ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-22"
+            }
+          },
+          {
+            "id": "ae1fbb7d823b95c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-22"
+            }
+          },
+          {
+            "id": "cbf4c731e694c3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orange data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orange data"
+            }
+          },
+          {
+            "id": "c0968c93dc822375",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c0a1a30aff34f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ff3ad7b8817ec03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b27c9e2a865616",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "758d45ee8483febf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d7f100d5be1ec9ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "749196374c2b265f",
+    "type": "split",
+    "children": [
+      {
+        "id": "75111a76cebfd57a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758932d080807a30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recap Reunion Evita - RTB3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Recap Reunion Evita - RTB3"
+            }
+          },
+          {
+            "id": "e68213ab0d1daba3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a38894c48e1701a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ed2c9e7210f3f6cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "f0ba069ec9d395ff",
+  "lastOpenFiles": [
+    "2024-11-06.md",
+    "2024-11-22.md",
+    "Objectives.md",
+    "PSI.md",
+    "Orange data.md",
+    "TODO - Orange.md",
+    "Recap Reunion Evita - RTB3.md",
+    "Pasted image 20241122092159.png",
+    "05_Resources/Pasted image 20241108153821.png",
+    "05_Resources/Pasted image 20241106095230.png",
+    "05_Resources/Pasted image 20241106095021.png",
+    "05_Resources/brillant/Pasted image 20241113114636.png",
+    "05_Resources/brillant/Pasted image 20241113114622.png",
+    "05_Resources/Pasted image 20241108153757.png",
+    "2024-11-20.md",
+    "05_Resources/brillant",
+    "2024-11-13.md",
+    "02_xxxxxx",
+    "01_xxxxxx",
+    "03_Journal/2024_November/S44",
+    "03_Journal/2024_November/S45",
+    "03_Journal/2024_November/S46",
+    "03_Journal/2024_November/S48",
+    "03_Journal/2024_November/S47",
+    "03_Journal/2024_November",
+    "2024-11-21.md",
+    "2024-11-19.md",
+    "2024-11-07.md",
+    "2024-11-05.md",
+    "Sans titre/Sans titre.md",
+    "04_Process",
+    "05_Resources/brillant/Pasted image 20241121094650.png",
+    "05_Resources/brillant/Pasted image 20241121094321.png",
+    "05_Resources/brillant/Pasted image 20241113172449.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
